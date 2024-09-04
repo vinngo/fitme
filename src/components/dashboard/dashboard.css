@@ -1,0 +1,16 @@
+.page{
+  background-color: #121724;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  display: flex;
+}
+
+.dashboard {
+  padding: 20px;
+  border-radius: 5px;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  color: white;
+}

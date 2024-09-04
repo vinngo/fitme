@@ -1,0 +1,26 @@
+.page{
+  background-color: #121724;
+  padding: 40px;
+  padding-top: 60px;
+  text-align: center;
+  justify-content: space-around;
+  min-height: 100vh /* Full viewport height minus nav bar height */
+}
+
+.header h1{
+  color: white;
+}
+
+.header p{
+  color:white;
+}
+
+.ctabutton{
+  background-color: #53e06b;
+  color: #121724;
+  border: none;
+  font-size: 15px;
+  padding: 20px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+}

@@ -1,0 +1,13 @@
+/* src/components/HorizontalScrollContainer.css */
+
+.horizontal-scroll-container {
+  display: flex;
+  overflow-x: auto; /* Enable horizontal scrolling */
+  white-space: nowrap; /* Prevents line breaks within children */
+  width: 100%; /* Optional: adjust width as needed */
+  border: 1px solid white; 
+}
+
+.horizontal-scroll-container > * {
+  flex: 0 0 auto; /* Prevent flex items from shrinking or growing */
+}

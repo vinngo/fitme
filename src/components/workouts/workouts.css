@@ -1,0 +1,28 @@
+.title{
+  color: white;
+  position: absolute;
+  top: 50px;
+  left: 30px;
+  padding: 16px;
+}
+
+.Page{
+  padding: 70px;
+  min-height: 100vh; /* Full viewport height minus nav bar height */
+  background-color: #121724;
+}
+
+li{
+  color: black;
+}
+
+h1{
+  color: white;
+}
+
+h4{
+  color: white; 
+
+}
+
+
